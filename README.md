@@ -78,8 +78,28 @@ Requirement Analysis is one of the most critical phases of the Software Developm
 
 4. **Manages Scope and Resources Effectively**  
    Requirement Analysis helps control scope creep by setting boundaries and prioritizing features. This ensures that time, budget, and resources are allocated efficiently to deliver maximum value.
+---
+## 🛠️ Key Activities in Requirement Analysis
 
-5. **Strengthens Stakeholder Alignment**  
+Requirement Analysis involves several structured activities that ensure the software product meets business goals and user needs. The five key activities are:
+
+- **Requirement Gathering**  
+  Collecting initial information about the project from stakeholders, clients, users, and existing systems. This step ensures all possible needs are captured.
+
+- **Requirement Elicitation**  
+  Engaging stakeholders through techniques such as interviews, surveys, workshops, and brainstorming sessions to uncover both explicit and hidden requirements.
+
+- **Requirement Documentation**  
+  Organizing and recording the gathered requirements in a clear, structured format (e.g., Software Requirement Specification – SRS). Documentation acts as a reference for the entire team.
+
+- **Requirement Analysis and Modeling**  
+  Examining requirements to identify conflicts, dependencies, or gaps. Using models such as use-case diagrams, data flow diagrams, or prototypes to visualize requirements for better understanding.
+
+- **Requirement Validation**  
+  Verifying that requirements are correct, complete, and aligned with business goals. This step ensures stakeholders agree on the documented requirements before moving into design and development.
+  
+
+6. **Strengthens Stakeholder Alignment**  
    Involving stakeholders in the requirement analysis process builds trust and alignment. It ensures their needs are properly captured, validated, and agreed upon before development begins.
 
 > **In summary:** Requirement Analysis is the foundation for project success. It ensures the right product is built, within budget and time, while meeting stakeholder expectations.
