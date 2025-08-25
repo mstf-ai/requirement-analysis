@@ -128,3 +128,33 @@ Non-functional requirements specify **how the system should perform** rather tha
 - The system must comply with **GDPR** for data privacy and security.  
 - The application should be **mobile-responsive** and work across different browsers.  
 - All transactions must be **encrypted using SSL/TLS protocols**.  
+---
+## 🎭 Use Case Diagrams  
+
+**Use Case Diagrams** are a visual way of representing how users (actors) interact with a system. They show the different roles in a system and the various functionalities (use cases) that these roles can perform.  
+
+### 📌 Benefits of Use Case Diagrams  
+- Provide a **clear understanding** of user interactions with the system.  
+- Help in identifying **system boundaries** and user roles.  
+- Act as a **communication bridge** between stakeholders and developers.  
+- Serve as a **blueprint for functional requirements**.  
+
+### 📊 Example: Booking Management System  
+
+The diagram below illustrates the main actors and use cases of the booking system.  
+
+**Actors:**  
+- User (Guest/Customer)  
+- Property Owner  
+- Admin  
+
+**Use Cases:**  
+- Create Account / Login  
+- Search Properties  
+- Book Property  
+- Make Payment  
+- Cancel Booking  
+- Add / Manage Property (Owner)  
+- Approve Listings (Admin)  
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)  
